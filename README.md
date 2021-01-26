@@ -2,6 +2,12 @@
 
 ## Status: In Progress
 
+## To Do 
+- Complete Setup Walkthrough
+- Complete Stats Walkthough
+- Add SKlearn Walkthrough
+- Add SQL Walkthrough
+
 ## Purpose
 
 The purpose of this collection of notebooks is to house my notes as they relate to data analytics, statistics, and data science.
