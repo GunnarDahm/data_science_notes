@@ -60,3 +60,12 @@ This notebook serves to introduce machine learning methodologies to create model
 
 ### 9. Neural Networks
 This notebook shows how to build simple neural networks for modeling and classification. 
+
+## Directories
+### data
+Data imported and exported throughout the above notebooks are stored here. 
+
+### img
+Images used for illustrative purposes are saved here. 
+
+### pdf
